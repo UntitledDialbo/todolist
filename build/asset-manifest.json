@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.274e6bc7.css",
-    "main.js": "/static/js/main.991d218d.js",
-    "index.html": "/index.html",
-    "main.274e6bc7.css.map": "/static/css/main.274e6bc7.css.map",
-    "main.991d218d.js.map": "/static/js/main.991d218d.js.map"
+    "main.css": "/UntitledDialbo/todolist.git/static/css/main.274e6bc7.css",
+    "main.js": "/UntitledDialbo/todolist.git/static/js/main.991d218d.js",
+    "index.html": "/UntitledDialbo/todolist.git/index.html",
+    "main.274e6bc7.css.map": "/UntitledDialbo/todolist.git/static/css/main.274e6bc7.css.map",
+    "main.991d218d.js.map": "/UntitledDialbo/todolist.git/static/js/main.991d218d.js.map"
   },
   "entrypoints": [
     "static/css/main.274e6bc7.css",
